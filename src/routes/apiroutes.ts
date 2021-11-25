@@ -259,7 +259,7 @@ routerMiddleware.delete('/bookings/:id', deleteData)
  */
 routerMiddleware.patch('/update/:id',  updateDetails)
 
-routerMiddleware.get('/', (req,res) => {
+routerMiddleware.get('/get', (req,res) => {
   res.send("Booking Management System")
 })
 
