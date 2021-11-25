@@ -1,0 +1,38 @@
+[
+  {
+    "OwnerId": "e9e9a730-47a6-11ec-a4dc-a726db86be30",
+    "BookingId": "e9e9ce40-47a6-11ec-a4dc-a726db86be30",
+    "BookedOn": "Wed Nov 17 2021 18:34:35 GMT+0530 (India Standard Time)",
+    "TotalFare": "3201.70",
+    "Status": "Booked",
+    "PassengerDetails": [
+      {
+        "Name": "prajwal Kulkarni",
+        "Age": 22,
+        "Gender": "female",
+        "SeatNo": 9
+      },
+      { "Name": "shambhavi", "Age": 18, "Gender": "female", "SeatNo": 3 }
+    ],
+    "Source": "Hubballi",
+    "Destination": "Bengaluru",
+    "Category": "Economy class",
+    "DepartureTime": "Tue Nov 25 2021 17:21:33"
+  },
+  {
+    "OwnerId": "906e0420-478e-11ec-88e2-0f7d5ebe2e56",
+    "BookingId": "906e2b30-478e-11ec-88e2-0f7d5ebe2e56",
+    "BookedOn": "Wed Nov 17 2021 15:40:17 GMT+0530 (India Standard Time)",
+    "TotalFare": "3000.00",
+    "Status": "Booked",
+    "PassengerDetails": [
+      { "Name": "Sajid", "Age": 24, "Gender": "Male", "SeatNo": "14" },
+      { "Name": "Shiva", "Age": 22, "Gender": "Male", "SeatNo": "18" },
+      { "Name": "Shiva", "Age": 22, "Gender": "Male", "SeatNo": "18" }
+    ],
+    "Source": "Bangalore",
+    "Destination": "Hyderabad",
+    "Category": "Premium Class",
+    "DepartureTime": "2021-11-17T15:00:46.579Z"
+  }
+]
